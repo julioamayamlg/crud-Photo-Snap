@@ -32,12 +32,12 @@ Vista de las fotos filtradas por autor.
 - FastAPI
 - MongoDB
 
-[<img src="https://github.com/CristinaFdezFdez/CristinaFdezFdez/assets/155740893/26c41fca-3cc6-4944-8a8f-674097cf7f36" alt="Quik" width="40" height="40"/>](https://qwik.builder.io/)
-[<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>](https://tailwindcss.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>](https://www.docker.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>](https://www.python.org)
-[<img src="https://github.com/CristinaFdezFdez/MesonFernandez/assets/155740893/5b71a9ff-0e53-49c8-b676-371266b7e789" alt="FastAPI" width="40" height="40"/>](https://fastapi.tiangolo.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>](https://www.mongodb.com/)
+[<img src="https://github.com/CristinaFdezFdez/CristinaFdezFdez/assets/155740893/26c41fca-3cc6-4944-8a8f-674097cf7f36" title="Quik" alt="Quik" width="60" height="60"/>](https://qwik.builder.io/)
+[<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" alt="Tailwind CSS" width="60" height="60"/>](https://tailwindcss.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="60" height="60"/>](https://www.docker.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>](https://www.python.org)
+[<img src="https://github.com/CristinaFdezFdez/MesonFernandez/assets/155740893/5b71a9ff-0e53-49c8-b676-371266b7e789" title="FastAPI" alt="FastAPI" width="60" height="60"/>](https://fastapi.tiangolo.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="60" height="60"/>](https://www.mongodb.com/)
 
 ## Enlace al vídeo de demostración
 
