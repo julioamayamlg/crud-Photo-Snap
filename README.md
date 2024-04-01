@@ -43,3 +43,9 @@ Vista de las fotos filtradas por autor.
 
 - [Video de demostración](https://www.youtube.com/watch?v=)
 - [GitHub del certificado de profesionalidad](https://github.com/CPIFPAlanTuring/certificaciones-2324)
+
+## Levantar el backend
+**docker-compose up dentro de la carpeta src**
+
+## Levantar el frontend
+**npm start dentro de la carpeta Frontend(requiere node.js instalado)**
