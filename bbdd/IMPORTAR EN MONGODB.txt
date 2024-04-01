@@ -1,0 +1,27 @@
+PARA IMPORTAR LA BASE DE DATOS EN EL CONTENEDOR DOCKER
+------------------------------------------------------
+
+1)docker-compose up
+
+2)Copiamos con el contenedor arrancado los archivos csv dentro del contenedor:
+docker cp Foto.csv src-mongodb-1:/home/
+
+3)docker exec -it src-mongodb-1 bash
+
+4)cd /home
+
+5)mongoimport --username admin --password 123 --authenticationDatabase admin --type=csv --headerline --db fotos --collection foto --file Foto.csv
+
+6:opcional) mongo -username admin (password 123)
+
+PARA EJECUTAR EL BACKEND
+------------------------
+navegamos a la carpeta Src
+ejecutamos en la consola: docker-compose up
+
+
+PARA EJECUTAR EL FRONTEND
+-------------------------
+navegamos a la carpeta Frontend
+ejecutamos en consola: npm start
+(Requiere tener instalado node.js)
